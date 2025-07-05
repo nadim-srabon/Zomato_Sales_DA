@@ -18,7 +18,7 @@
 | `zomato_cleaned.csv`         | Cleaned version after processing     |
 | `screenshots/dashboard.png`  | Dashboard preview                    |
 
-![Power BI Dashboard](screenshots/dashboard.png) ![overview](screenshots/zomato_overview.png)
+![Power BI Dashboard](screenshots/dashboard.png) ![overview](screenshots/zomato_overview.jpeg)
 
 
 ## 🧹 Cleaning Summary
