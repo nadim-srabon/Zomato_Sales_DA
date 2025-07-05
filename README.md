@@ -18,6 +18,8 @@
 | `zomato_cleaned.csv`         | Cleaned version after processing     |
 | `screenshots/dashboard.png`  | Dashboard preview                    |
 
+![Power BI Dashboard](screenshots/dashboard.png)
+
 ## 🧹 Cleaning Summary
 
 - Removed columns with excessive nulls or redundant info
